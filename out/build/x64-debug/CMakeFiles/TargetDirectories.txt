@@ -1,0 +1,3 @@
+C:/VS/VS/Main_lab/1/8-puzzle/out/build/x64-debug/CMakeFiles/PuzzleGame.dir
+C:/VS/VS/Main_lab/1/8-puzzle/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/VS/VS/Main_lab/1/8-puzzle/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
